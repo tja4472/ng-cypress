@@ -1,6 +1,10 @@
 {
   "name": "ng-cypress",
   "version": "0.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tja4472/ng-cypress"
+  },
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
